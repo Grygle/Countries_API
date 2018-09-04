@@ -1,0 +1,43 @@
+.info-container {
+    background-blend-mode: screen, difference, lighten;
+    height: 660px;
+    width: 350px;
+    align-self: flex-start;
+    justify-self: center;
+}
+
+.info-container div{
+    margin: 10px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+.info-container div#img{
+    margin: 0;
+}
+
+.info-container div > img{
+    margin-top: 10px;
+}
+
+.info-container div span {
+    font-weight: 700;
+}
+
+.img-value {
+    height: 40%;
+    width: 60%;
+}
+
+.weather-img {
+    height: 128px;
+    width: 128px;
+}
+
+div.country-name {
+    font-weight: 700;
+    font-size: 17px;
+}

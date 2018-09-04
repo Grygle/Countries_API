@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    line-height: 19px;
+    background: url("https://images.pexels.com/photos/235985/pexels-photo-235985.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+
+}
+
+.clickedCountry {
+    fill: red;
+}
+
+.clickedCountry-again {
+    fill: blue;
+}
+
+.clickedCountry-last {
+    fill: none;
+}
+
+h1 {
+  font-family: 'Shadows Into Light', serif;
+    margin: 8px auto;
+    width: 600px;
+    padding: 10px;
+    text-align: center;
+}
