@@ -3,7 +3,7 @@ This project was created in React using [Create React App](https://github.com/fa
 
 Clickable world map in SVG format. Click on the country to get country information and weather in capital city.
 
-### Rest API usage
+### Rest API
 This project uses two API's:
 - Weather API from openweathermap
 - Country information API from restcountries
